@@ -1,5 +1,7 @@
 pincodes-gerados.txt
 
+*~
+
 # scala
 *.class
 *.log
